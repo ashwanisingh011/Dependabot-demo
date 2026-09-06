@@ -1,4 +1,5 @@
----
+# Basic `dependabot.yml` file with
+# minimum configuration for three package managers---
 version: 2
 updates:
   - package-ecosystem: "github-actions"
